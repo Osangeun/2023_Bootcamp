@@ -11,14 +11,15 @@ module testbench;
         .Q(Q)
     );
 
-    initial clk = 1'b0;
     always # 5 clk = ~clk;
 
     initial begin
-        D = 1'b0;
+        clk = 1'b0;
         reset = 1'b0;
         #10 reset = 1'b1;
-    
+    end 
+
+    initial begin   
         D = 1'b0;
         #10;
 

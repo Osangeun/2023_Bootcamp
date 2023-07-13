@@ -3,9 +3,7 @@ module T_FF (
     input reset,
     input T, 
     output reg Q  
-);
-
-initial Q <= 1'b0;            
+);        
 
 always @ (posedge clk)    
 begin

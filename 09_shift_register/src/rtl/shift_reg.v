@@ -2,7 +2,7 @@ module shift_reg(
     input clk,
     input reset,
     input d,
-    output [3:0] reg q
+    output reg [3:0] q
 );
 
 always @ (posedge clk) begin

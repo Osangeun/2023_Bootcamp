@@ -11,8 +11,9 @@ module testbench;
         .q(q)
     );
 
-    initial clk = 1'b0;
     always # 5 clk = ~clk;
+    
+    initial clk = 1'b0;
 
     initial begin
         J = 1'b0;
