@@ -1,0 +1,8 @@
+//decoder
+{signal: [
+  {name: "in", wave: "3456x....",  data: ["00", "01", "10", "11"] },
+  {name: 'D0', wave: '10.......'},
+  {name: 'D1', wave: '010......'},
+  {name: 'D2', wave: '0.10.....'},
+  {name: 'D3', wave: '0..10....'}
+]}

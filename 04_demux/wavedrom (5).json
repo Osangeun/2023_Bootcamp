@@ -1,0 +1,7 @@
+//demux
+{signal: [
+  {name: 'D', wave: "01010.."},
+  {name: 'S', wave: "0.1.0.."},
+  {name: 'mux_out_1', wave: "010...."},
+  {name: 'mux_out_2', wave: "0..10.."}
+]}

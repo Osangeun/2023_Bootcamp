@@ -1,0 +1,7 @@
+//mux
+{signal: [
+  {name: 'D0', wave: "01010.."},
+  {name: 'D1', wave: "10101.."},
+  {name: 'sel', wave: "0.1.0.."},
+  {name: 'mux_out', wave: "01.0..."},
+]}

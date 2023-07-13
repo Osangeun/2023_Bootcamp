@@ -1,0 +1,9 @@
+//encoder
+{signal: [
+  {name: 'clk', wave: 'p........'},
+  {name: 'D0', wave: '10.......'},
+  {name: 'D1', wave: '010......'},
+  {name: 'D2', wave: '0.10.....'},
+  {name: 'D3', wave: '0..10....'},
+  { name: "out", wave: "3456x....",  data: ["00", "01", "10", "11"] }
+]}

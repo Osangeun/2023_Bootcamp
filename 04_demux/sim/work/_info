@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\2023_Bootcamp\2023_Bootcamp\04_demux\sim
+vdemux
+!i10b 1
+Z1 !s100 Ja9lCzTXRi1<2Y3QanYOb0
+Z2 Id2C<OOLTcD=2OmaIak]a63
+Z3 V@Y3kdDc>78^8Jh;cQS7gi3
+Z4 dZ:\2023_Bootcamp\2023_Bootcamp\04_demux\sim
+Z5 w1688624279
+Z6 8../src/rtl/demux.v
+Z7 F../src/rtl/demux.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1688625272.545000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/demux.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 GV139A<zZlMZI=WcPi9G<3
+IDZX[mjF:Z8^:cl;PlJFLQ3
+VhGfW:390DM[oDMzegDH9`2
+R4
+w1688625267
+8../testbench/testbench.v
+F../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

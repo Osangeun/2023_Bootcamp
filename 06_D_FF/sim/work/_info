@@ -1,0 +1,64 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\2023_Bootcamp\2023_Bootcamp\06_D_FF\sim
+vD_FF
+!i10b 1
+Z1 !s100 6XbBE4G97_1Sm=SSmSR1k3
+Z2 I6^]?5dQQ>b;fW__jbDeo]0
+Z3 V3@nGMVBT:oBb=OhfP<RDm3
+Z4 dZ:\2023_Bootcamp\2023_Bootcamp\06_D_FF\sim
+Z5 w1689215216
+Z6 8../src/rtl/D_FF.v
+Z7 F../src/rtl/D_FF.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1689216141.763000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/D_FF.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+Z12 n@d_@f@f
+vtb_D_FF
+Z13 !s100 QCeZb=YSiGnfOkL19cb501
+Z14 IEa0>hR8_ZYQ8z_4lLf58m2
+Z15 VB]icd5@8<30S2V5lXE9Pn2
+R4
+Z16 w1688970816
+Z17 8../testbench/testbench.v
+Z18 F../testbench/testbench.v
+L0 4
+R8
+r1
+31
+Z19 !s108 1688970834.316000
+Z20 !s107 ../testbench/testbench.v|../src/rtl/D_FF.v|
+R11
+o-O0
+Z21 ntb_@d_@f@f
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 Fd7^ba01MDG91Tb0?An0_2
+IK>U^5_4DW@ogj[AIiPD^d1
+Z22 VhGfW:390DM[oDMzegDH9`2
+R4
+w1689216085
+R17
+R18
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\2023_Bootcamp\2023_Bootcamp\02_decoder\sim
+vtestbench
+!i10b 1
+!s100 f^ReF0Hi`o5m6F[RS6oZ51
+I5^b?dnU:K[VnHNhJjf^Bi1
+Z1 VhGfW:390DM[oDMzegDH9`2
+Z2 dZ:\2023_Bootcamp\2023_Bootcamp\02_decoder\sim
+w1688622385
+Z3 8../testbench/testbench.v
+Z4 F../testbench/testbench.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1688622387.229000
+!s107 ../testbench/testbench.v|../src/rtl/decoder.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0

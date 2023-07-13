@@ -1,0 +1,7 @@
+//SR_FF
+{signal: [
+  {name: 'clk', wave: "P......"},
+  {name: 'S', wave: "lhlh..."},
+  {name: 'R', wave: "l.hl..."},
+  {name: 'Q', wave: "lhlh..."},
+]}

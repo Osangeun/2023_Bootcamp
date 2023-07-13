@@ -1,0 +1,7 @@
+//JK_FF
+{signal: [
+  {name: 'clk', wave: "P...."},
+  {name: 'J', wave: "l.h.."},
+  {name: 'K', wave: "lhlhl"},
+  {name: 'Q', wave: "l.h.."},
+]}
