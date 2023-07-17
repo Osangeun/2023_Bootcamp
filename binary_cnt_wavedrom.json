@@ -1,0 +1,6 @@
+//binary_cnt
+{signal: [
+  {name: 'clk', wave: "P......"},
+  {name: 'reset', wave: "lh....."},
+  { name: "Data",    wave: "3456789",  data: ["0", "1", "2","3","4","5","6"] },
+]}

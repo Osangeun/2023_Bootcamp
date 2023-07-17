@@ -1,0 +1,7 @@
+//shift_reg
+{signal: [
+  {name: 'clk', wave: "P......"},
+  {name: 'reset', wave: "lh....."},
+  {name: 'd', wave: "lhlhl.."},
+  {name: 'q', wave: "l.hlhl.",phase: 0.5},
+]}
