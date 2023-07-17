@@ -1,13 +1,13 @@
 module binary_cnt(
     input clk,
     input reset,
-    output reg [3:0] out
+    output reg [3:0] q
 );
 
 always @ (posedge clk or negedge reset) begin
     if(!reset)
-        out <= 4'b0000;
+        q <= 4'b0000;
     else
-        out <= out + 1;
+        q <= q + 1;
 end
 endmodule

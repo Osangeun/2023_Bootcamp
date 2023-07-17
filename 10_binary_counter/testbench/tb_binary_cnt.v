@@ -1,12 +1,12 @@
 module tb_binary_cnt;
     reg clk;
     reg reset;
-    wire [3:0] out;
+    wire [3:0] q;
 
 binary_cnt uut_binary_cnt(
     .clk(clk),
     .reset(reset),
-    .out(out)
+    .q(q)
 );
 
 always #5 clk = ~clk;

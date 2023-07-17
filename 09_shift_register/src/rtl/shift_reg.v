@@ -5,7 +5,7 @@ module shift_reg(
     output reg [3:0] q
 );
 
-always @ (posedge clk) begin
+always @ (posedge clk or negedge reset) begin
     if(!reset)
         q <= 4'b0000;
     else

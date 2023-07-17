@@ -5,39 +5,39 @@ cModel Technology
 Z0 dZ:\2023_Bootcamp\2023_Bootcamp\09_shift_register\sim
 vshift_reg
 !i10b 1
-Z1 !s100 I5LW7kIR_[2Tz]<VYO;RW2
-Z2 IETVTh`m=GD^oJ[gcfSbno2
-Z3 Vzc2B_4ggTBMI7WoeRcL;13
-Z4 dZ:\2023_Bootcamp\2023_Bootcamp\09_shift_register\sim
-Z5 w1689233983
-Z6 8../src/rtl/shift_reg.v
-Z7 F../src/rtl/shift_reg.v
+!s100 n^]Cj4kAmdF=0Bb3LdS292
+Ihb1O3IbX=XdQ7[M<8J4AX1
+Z1 Vzc2B_4ggTBMI7WoeRcL;13
+Z2 dZ:\2023_Bootcamp\2023_Bootcamp\09_shift_register\sim
+w1689574376
+Z3 8../src/rtl/shift_reg.v
+Z4 F../src/rtl/shift_reg.v
 L0 1
-Z8 OV;L;10.1d;51
+Z5 OV;L;10.1d;51
 r1
 !s85 0
 31
-Z9 !s108 1689235541.120000
-Z10 !s107 ../testbench/tb_shift_reg.v|../src/rtl/shift_reg.v|
-Z11 !s90 -reportprogress|300|-f|run.f|
+Z6 !s108 1689574383.629000
+Z7 !s107 ../testbench/tb_shift_reg.v|../src/rtl/shift_reg.v|
+Z8 !s90 -reportprogress|300|-f|run.f|
 !s101 -O0
 o-O0
 vtb_shift_reg
 !i10b 1
-!s100 TclG@k?l8fYHi^bW0;:iN2
-IDh`?Xg@6A>bWfz=N0LmiK0
-Z12 V1^[Xk5cMJo5FdD6]>Z8HK1
-R4
-w1689235476
+Z9 !s100 TclG@k?l8fYHi^bW0;:iN2
+Z10 IDh`?Xg@6A>bWfz=N0LmiK0
+Z11 V1^[Xk5cMJo5FdD6]>Z8HK1
+R2
+Z12 w1689573756
 Z13 8../testbench/tb_shift_reg.v
 Z14 F../testbench/tb_shift_reg.v
 L0 1
-R8
+R5
 r1
 !s85 0
 31
-R9
-R10
-R11
+R6
+R7
+R8
 !s101 -O0
 o-O0

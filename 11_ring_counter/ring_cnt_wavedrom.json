@@ -1,0 +1,6 @@
+//ring_cnt
+{signal: [
+  {name: 'clk', wave: "P....."},
+  {name: 'reset', wave: "lh...."},
+  { name: "q",    wave: "234567",  data: ["0000","0001", "0010", "0100","1000","0001"] },
+]}
