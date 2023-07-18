@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\2023_Bootcamp\2023_Bootcamp\12_johnson_counter\sim
+vjohnson_cnt
+!i10b 1
+Z1 !s100 >[9eR1Xl:g7UnPODhQC9C0
+Z2 IOcm]:EBmjj>1?9^5WHfSg3
+Z3 V51=a0SjImMGbMc8TOL<Y92
+Z4 dZ:\2023_Bootcamp\2023_Bootcamp\12_johnson_counter\sim
+Z5 w1689646874
+Z6 8../src/rtl/johnson_cnt.v
+Z7 F../src/rtl/johnson_cnt.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1689648169.327000
+Z10 !s107 ../testbench/tb_johnson_cnt.v|../src/rtl/johnson_cnt.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtb_johnson_cnt
+!i10b 1
+!s100 bCmF5E2[N4c6zOcVN_<lJ0
+I42XHm^SlLPN;YX_eBXAY00
+Z12 V>0g?z]bl0<N39l:5?I_zn3
+R4
+w1689648151
+Z13 8../testbench/tb_johnson_cnt.v
+Z14 F../testbench/tb_johnson_cnt.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

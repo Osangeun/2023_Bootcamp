@@ -1,9 +1,9 @@
-module tb_ring_cnt;
+module tb_johnson_cnt;
     reg clk;
     reg reset;
     wire [3:0] q;
 
-ring_cnt uut_ring_cnt(
+johnson_cnt uut_johnson_cnt(
     .clk(clk),
     .reset(reset),
     .q(q)
