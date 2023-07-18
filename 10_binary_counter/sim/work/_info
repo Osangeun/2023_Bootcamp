@@ -5,39 +5,39 @@ cModel Technology
 Z0 dZ:\2023_Bootcamp\2023_Bootcamp\10_binary_cnt\sim
 vbinary_cnt
 !i10b 1
-Z1 !s100 4IA;S^zBghlJRU1N6iRh90
-Z2 I4U2zE:9W[U_Effa;N4T5L0
-Z3 V:_[]f75X<f`OJ9^4Xc?101
-Z4 dZ:\2023_Bootcamp\2023_Bootcamp\10_binary_cnt\sim
-Z5 w1689560861
-Z6 8../src/rtl/binary_cnt.v
-Z7 F../src/rtl/binary_cnt.v
+!s100 ?RmE9DK6Ag_RQL?bH^YfE1
+IgioNm4Sj`D>TkijGHko;12
+VGz3E>4oM@:ahNg;?]ez=?0
+Z1 dZ:\2023_Bootcamp\2023_Bootcamp\10_binary_counter\sim
+w1689664742
+Z2 8../src/rtl/binary_cnt.v
+Z3 F../src/rtl/binary_cnt.v
 L0 1
-Z8 OV;L;10.1d;51
+Z4 OV;L;10.1d;51
 r1
 !s85 0
 31
-Z9 !s108 1689560900.057000
-Z10 !s107 ../testbench/tb_binary_cnt.v|../src/rtl/binary_cnt.v|
-Z11 !s90 -reportprogress|300|-f|run.f|
+Z5 !s108 1689664763.465000
+Z6 !s107 ../testbench/tb_binary_cnt.v|../src/rtl/binary_cnt.v|
+Z7 !s90 -reportprogress|300|-f|run.f|
 !s101 -O0
 o-O0
 vtb_binary_cnt
 !i10b 1
-!s100 Lzzj_F=QFY4;1h3]j5^Lc1
-Iz5N7:8`ClEOUBd=HbT^;N1
-VOYbzZQ76JO>0H<Ke61RR>3
-R4
-w1689560897
-8../testbench/tb_binary_cnt.v
-F../testbench/tb_binary_cnt.v
+Z8 !s100 C<mK9Ccz`4ieLe[WPNYJX1
+Z9 ID47Qh`ZK09[G_6=6z0Ji_0
+Z10 VOYbzZQ76JO>0H<Ke61RR>3
+R1
+Z11 w1689576576
+Z12 8../testbench/tb_binary_cnt.v
+Z13 F../testbench/tb_binary_cnt.v
 L0 1
-R8
+R4
 r1
 !s85 0
 31
-R9
-R10
-R11
+R5
+R6
+R7
 !s101 -O0
 o-O0
