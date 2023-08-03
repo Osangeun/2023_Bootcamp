@@ -1,0 +1,101 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\2023_Bootcamp\2023_Bootcamp\15_RCA\sim
+vfull_adder
+!i10b 1
+Z1 !s100 5jU9YgIVnSG1<VmV6CKaB2
+Z2 IiVPaCbN3SgEg]jMU:L>jE0
+Z3 VDXIz@A8ZlZIe0^?_MInkU1
+Z4 dZ:\2023_Bootcamp\2023_Bootcamp\15_RCA\sim
+Z5 w1691028514
+Z6 8../src/rtl/full_adder.v
+Z7 F../src/rtl/full_adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1691036686.042000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/rca.v|../src/rtl/full_adder.v|../src/rtl/half_adder.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vhalf_adder
+!i10b 1
+Z12 !s100 cP^i7cUhLabg7URjnC23Z3
+Z13 IhEhMS7cOCI:HT84`b@6X[0
+Z14 VDCW[VE_Je;;;j^7F5QSOm3
+R4
+Z15 w1691028516
+Z16 8../src/rtl/half_adder.v
+Z17 F../src/rtl/half_adder.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vRCA
+Z18 !s100 ?ES@Vm=jTgYVm_]oI9G>o3
+Z19 I<hSfY]7fL8NWhTGi?Rn@j2
+Z20 VGHa[[;<ifkTc[3WjXZ]gE3
+R4
+Z21 w1690869356
+R6
+R7
+L0 14
+R8
+r1
+31
+Z22 !s108 1690870006.765000
+Z23 !s107 ../testbench/testbench.v|../src/rtl/full_adder.v|
+R11
+o-O0
+Z24 n@r@c@a
+!i10b 1
+!s85 0
+!s101 -O0
+vrca
+!i10b 1
+!s100 1Uh?5S_XN[5i8Qi_m]J2b0
+Ib_PNP?lGzo0>DMa>JJ^0`3
+Z25 VcQY7bPJ9:=c?PV3W=OOl81
+R4
+w1691036588
+Z26 8../src/rtl/rca.v
+Z27 F../src/rtl/rca.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 k5=XnIU:>3B[R7]U6I>:>0
+IbdH]:lMo^]8<zXbC5KlC00
+Z28 VhGfW:390DM[oDMzegDH9`2
+R4
+w1691036644
+Z29 8../testbench/testbench.v
+Z30 F../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
