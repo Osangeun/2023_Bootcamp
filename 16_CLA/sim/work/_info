@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\2023_Bootcamp\2023_Bootcamp\16_CLA\sim
+vcarry_lookahead_unit
+!i10b 1
+Z1 !s100 >W<H[lKF9Lfk]3IaihjQD1
+Z2 I8Ah<BR=@YWz]3`cXzbg=U2
+Z3 Vl1M3AoT20L>2cK[`K:aU;2
+Z4 dZ:\2023_Bootcamp\2023_Bootcamp\16_CLA\sim
+Z5 w1691477698
+Z6 8../src/rtl/carry_lookahead_unit.v
+Z7 F../src/rtl/carry_lookahead_unit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1691478128.521000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/cla.v|../src/rtl/carry_lookahead_unit.v|../src/rtl/full_adder.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vcla
+!i10b 1
+!s100 b5<F^RZe<>:7@iM2M61IC1
+I;fmG_c9bM@VFa@18:VeGQ3
+Z12 VI6a^C7S0FV84h<1dWHHff3
+R4
+w1691478122
+Z13 8../src/rtl/cla.v
+Z14 F../src/rtl/cla.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vfull_adder
+!i10b 1
+Z15 !s100 h4iKMNJE?;RTYBbEN5za@2
+Z16 IWN<_7@<C_4;E7QU9j@PAA1
+Z17 V;X^CS<MamC9Q4eL_z:G1=2
+R4
+Z18 w1691477701
+Z19 8../src/rtl/full_adder.v
+Z20 F../src/rtl/full_adder.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+Z21 !s100 0dmdKf@ib1jmfCWDd6c@j0
+Z22 I]=ckK@8`H599kK[bE]bdA0
+Z23 VhGfW:390DM[oDMzegDH9`2
+R4
+Z24 w1691477703
+Z25 8../testbench/testbench.v
+Z26 F../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
